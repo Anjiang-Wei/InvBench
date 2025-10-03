@@ -1,8 +1,8 @@
 # InvBench: Can LLMs Accelerate Program Verification with Invariant Synthesis?
 
-InvBench is the official repository for the paper "Can LLMs Accelerate Program Verification with Invariant Synthesis?". It provides benchmark programs and timing data to evaluate the effectiveness of large language models in generating invariants and verifying C programs.
+InvBench is the official repository for the paper "Can LLMs Accelerate Program Verification with Invariant Synthesis?". 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2509.21629-b31b1b.svg)](https://www.arxiv.org/abs/2509.21629) [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](#license) [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.21629-b31b1b.svg)](https://www.arxiv.org/abs/2509.21629) [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/license/apache-2-0) 
 
 ## Repository Structure
 
@@ -45,4 +45,4 @@ If our research inspires you, please cite our paper:
 
 ## License
 
-This project is licensed under the Apache License 2.0. 
+This project is licensed under the [Apache License 2.0](https://opensource.org/license/apache-2-0). 
